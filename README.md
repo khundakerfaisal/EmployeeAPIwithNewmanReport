@@ -3,6 +3,7 @@
 
 ## Prerequisite
 - Postman
+- Node JS
 - Visiual studio code
 ## How to run this project
 - clone this project ```https://github.com/khundakerfaisal/EmployeeAPIwithNewmanReport```
